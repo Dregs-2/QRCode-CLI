@@ -1,5 +1,5 @@
 #!/usr/bin/env inlein
-# https://github.com/hyPiRion/inlein/releases/download/0.2.0/inlein
+; https://github.com/hyPiRion/inlein/releases/download/0.2.0/inlein
 '{:dependencies [[org.clojure/clojure "1.11.1"] [com.google.zxing/core "3.5.2"] [org.babashka/cli "0.4.39"]]}
 
 (import com.google.zxing.BarcodeFormat)
